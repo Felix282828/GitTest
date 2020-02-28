@@ -1,3 +1,5 @@
 first text in Git Folder
 first text in Git Folder
 third change in file
+
+that is new line
