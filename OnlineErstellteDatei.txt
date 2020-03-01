@@ -2,4 +2,9 @@ ja das ist wirklich online erstellt.
 second online try. rigth command is pull. not FETCH
 local changed
 
+
 das ist branch d.h. newbranch
+
+ich habe anderen local repossitory erstellt
+das ist eine anderung
+
