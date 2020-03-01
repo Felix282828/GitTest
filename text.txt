@@ -1,4 +1,10 @@
 new line
 this line is online edited
+<<<<<<< HEAD
 ich bin master branch
 jetzt müssen wir mergen 
+i want to go on branch
+second versuch on branch
+third versuch on branch
+ich bin wirklich in dem branch
+>>>>>>> testbranch
