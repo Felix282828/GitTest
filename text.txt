@@ -8,3 +8,5 @@ second versuch on branch
 third versuch on branch
 ich bin wirklich in dem branch
 >>>>>>> testbranch
+
+ich bin in "new BRANCH"
