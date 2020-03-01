@@ -10,3 +10,4 @@ ich bin wirklich in dem branch
 >>>>>>> testbranch
 
 ich bin in "new BRANCH"
+ich bin wieder in master
